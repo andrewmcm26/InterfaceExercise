@@ -1,0 +1,11 @@
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.deps.json
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.runtimeconfig.json
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.runtimeconfig.dev.json
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.dll
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.pdb
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.csprojAssemblyReference.cache
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.AssemblyInfoInputs.cache
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.AssemblyInfo.cs
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.dll
+/Users/andrewmcmahon/Desktop/Repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.pdb
